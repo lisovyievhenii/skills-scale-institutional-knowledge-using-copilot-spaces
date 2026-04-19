@@ -28,6 +28,22 @@ Developers design, build, test, and deliver software components. They collaborat
 
 ---
 
+## QAs
+
+### Role Summary
+QA ensures quality of the project
+
+### Responsibilities
+- eat well
+
+### Goals
+- be nice
+
+### Typical Communication
+- polite
+
+---
+
 ## Product Managers
 
 ### Role Summary
